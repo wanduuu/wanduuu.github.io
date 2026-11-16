@@ -23,3 +23,4 @@ export const playHistory = [
  {title:'명일방주: 엔드필드',group:'모바일',platform:'PC, 모바일',startDate:'2026.01.22',image:'/games/arknights-endfield.jpg',accent:'#c6ce8a',insight:''}
 ];
 
+
